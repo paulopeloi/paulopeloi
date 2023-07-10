@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>👨‍💻 I’m currently working on SharpTech Sistemas and ControlSoft.<br>📕 I’m currently learning JavaScript, Node, React and React Native.<br>💬 How to reach me: @paulopeloi
+Hi there 👋<br>📕 I’m currently learning JavaScript, Node, React and React Native.<br>💬 How to reach me: @paulopeloi
 
 
 ## 🌐 Socials:
