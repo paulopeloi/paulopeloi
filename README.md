@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there 👋<br>📕 I’m currently learning JavaScript, Node, React and React Native.<br>💬 How to reach me: @paulopeloi
+Hi there 👋<br>📕 I’m currently learning JavaScript, Node, React and React Native.<br>💬 How to reach me: @paulopeloi <br>✍️ É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada.
+
 
 
 ## 🌐 Socials:
