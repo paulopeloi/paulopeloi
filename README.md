@@ -1,5 +1,5 @@
  # 💫 About Me:
-🧑‍💻 CTO in Experdata.<br>🌱 I'm currently learning NodeJS and Testing in JS<br>💭 It's better to try something, see that it doesn't work and learn from it, than to do nothing.
+🧑‍💻 CTO in Experdata.<br>💭 It's better to try something, see that it doesn't work and learn from it, than to do nothing.
 
 
 ## 🌐 Socials:
